@@ -1,0 +1,86 @@
+{
+  "AC": {
+    "name": "ACRE"
+  },
+  "AL": {
+    "name": "ALAGOAS"
+  },
+  "AP": {
+    "name": "AMAPÁ"
+  },
+  "AM": {
+    "name": "AMAZONAS"
+  },
+  "BA": {
+    "name": "BAHIA"
+  },
+  "CE": {
+    "name": "CEARÁ"
+  },
+  "DF": {
+    "name": "DISTRITO FEDERAL"
+  },
+  "ES": {
+    "name": "ESPÍRITO SANTO"
+  },
+  "GO": {
+    "name": "GOIÁS"
+  },
+  "MA": {
+    "name": "MARANHÃO"
+  },
+  "MT": {
+    "name": "MATO GROSSO"
+  },
+  "MS": {
+    "name": "MATO GROSSO DO SUL"
+  },
+  "MG": {
+    "name": "MINAS GERAIS"
+  },
+  "PA": {
+    "name": "PARÁ"
+  },
+  "PB": {
+    "name": "PARAÍBA"
+  },
+  "PR": {
+    "name": "PARANÁ"
+  },
+  "PE": {
+    "name": "PERNAMBUCO"
+  },
+  "PI": {
+    "name": "PIAUÍ"
+  },
+  "RJ": {
+    "name": "RIO DE JANEIRO"
+  },
+  "RN": {
+    "name": "RIO GRANDE DO NORTE"
+  },
+  "RS": {
+    "name": "RIO GRANDE DO SUL"
+  },
+  "RO": {
+    "name": "RONDÔNIA"
+  },
+  "RR": {
+    "name": "RORAIMA"
+  },
+  "SC": {
+    "name": "SANTA CATARINA"
+  },
+  "SP": {
+    "name": "SÃO PAULO"
+  },
+  "SE": {
+    "name": "SERGIPE"
+  },
+  "TO": {
+    "name": "TOCANTINS"
+  },
+  "EX": {
+    "name": "EXTERIOR"
+  }
+}

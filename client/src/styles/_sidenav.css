@@ -1,0 +1,102 @@
+
+
+.sidenav {
+	min-height: 100vh;
+	z-index: 1;
+	background-color: #ececec;
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding: 0;
+	width: 25%;
+	max-width: 20vw;
+	border: 2px solid #c4c4c4;
+	border-top: 0;
+}
+
+.sidenav a {
+	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+	font-size: 25px;
+	color: #fff;
+	display: block;
+	transition: 0.3s;
+}
+
+.sidenav a:hover {
+	color: #ccc;
+}
+
+.sidenav .closebtn {
+	position: absolute;
+	top: 0;
+	right: 25px;
+	font-size: 36px;
+	margin-left: 50px;
+}
+
+.container_menu {
+	padding: 20px;
+	width: 100%;
+}
+
+.sidenav-title__container {
+	padding: 20px;
+	border-bottom: 2px solid #c4c4c4;
+}
+
+.sidenav-title__inner {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.sidenav-title__image {
+	margin-right: 20px;
+}
+.sidenav-title__msg {
+	color: var(--secondary-color);
+	font-weight: 700;
+	font-size: 1.25rem;
+	margin: 0;
+}
+
+.buscar_btn {
+	width: 100%;
+	font-size: 1rem;
+	font-weight: 500;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	height: 40px;
+	border-radius: 10px;
+	background-color: var(--secondary-color);
+	color: white;
+}
+
+.largura_select {
+	width: 100%;
+	padding: 5px 15px 5px 5px;
+	margin: 5px 0;
+	color: black;
+	border: 1px solid #c4c4c4;
+	border-radius: 0.5rem;
+	text-overflow: ellipsis;
+}
+
+.select_cnae {
+	width: 100%;
+}
+
+.titulo_h3 {
+	color: black;
+	font-size: 12px;
+	margin-bottom: 0px;
+	margin-top: 5px;
+}
+
+.form-group {
+	margin: 10px 0;
+}
+
+.trial-group {
+	margin: 10px 0;
+}
